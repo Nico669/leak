@@ -1,7 +1,4 @@
---  Productions server https://discord.gg/8EZcyvtDcq & https://discord.gg/wJV63vJqMy for Pendulum Hubs server // ProductionTakeOne#3330 general reanimation // Tescalus#0001 bug fixes and making it better.
--- If you wanted to use this reanimate for your projects, please do not remove credits. Thank you :)
--- // Modules/Setup
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LegoHacker1337/legohacks/main/PhysicsServiceOnClient.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nico669/leak/main/pendulum/reanimphysicspendulum.lua"))()
 task.wait()
 
 if _G.Fling == nil then _G.Fling = false end
