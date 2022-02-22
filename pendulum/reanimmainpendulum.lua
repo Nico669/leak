@@ -9,7 +9,7 @@ _G.Velocity = -17
 _G.ExtremeNetless = false
 end
 _G.ShowReal = true
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/NetlessReanimV2(ThanksProductionTakeOne%20%233330%20for%20help).lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nico669/leak/main/pendulum/secondpardofreanimpendulum.lua"))()
 task.wait()
 local Fling = game.Players.LocalPlayer.Character[game.Players.LocalPlayer.Name]:FindFirstChild("LowerTorso") or game.Players.LocalPlayer.Character[game.Players.LocalPlayer.Name].HumanoidRootPart
 Fling.Transparency = 1
