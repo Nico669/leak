@@ -1,4 +1,3 @@
---Added a second hook cuz in some reason hookmetamethod doesnt work in Synapse X
 local PhysicsService = game:GetService("PhysicsService")
 local Workspace = game:GetService("Workspace")
 
